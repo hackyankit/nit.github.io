@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: powderblue;
+ }
+ h2{
+    color: aliceblue;
+    background-color: cadetblue;
+ }
+ footer{
+     background-color: teal;
+ }
+ h1{
+    color:bisque;
+    background-color:teal;
+ }
+ .bio{
+    float:right;
+    padding-right: 4%;
+}
